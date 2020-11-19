@@ -53,8 +53,8 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
-                                Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
+                                Console.WriteLine($"Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
 
 
@@ -66,7 +66,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -77,7 +77,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -95,7 +95,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
 
@@ -106,7 +106,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                                 continueOreExit = Console.ReadLine();
                                 if (continueOreExit == exit)
                                 {
-                                    Console.WriteLine(string.Join(' ', sumList));
+                                    Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                     Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                                 }
                             }
@@ -117,7 +117,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                                 continueOreExit = Console.ReadLine();
                                 if (continueOreExit == exit)
                                 {
-                                    Console.WriteLine(string.Join(' ', sumList));
+                                    Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                     Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                                 }
                             }
@@ -135,7 +135,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -146,7 +146,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -157,7 +157,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -174,7 +174,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -185,7 +185,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
 
@@ -197,7 +197,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
 
@@ -221,7 +221,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -232,7 +232,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
 
@@ -244,7 +244,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
 
@@ -262,7 +262,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -273,7 +273,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -284,7 +284,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -301,7 +301,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -312,7 +312,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -323,7 +323,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -340,7 +340,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -351,7 +351,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -362,7 +362,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -382,7 +382,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -393,7 +393,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -404,7 +404,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -421,7 +421,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -432,7 +432,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -443,7 +443,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -460,7 +460,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -471,7 +471,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -482,7 +482,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -499,7 +499,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -510,7 +510,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -521,7 +521,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -541,7 +541,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -552,7 +552,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -563,7 +563,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -580,7 +580,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -591,7 +591,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -602,7 +602,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -619,7 +619,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -630,7 +630,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -641,7 +641,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -658,7 +658,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -669,7 +669,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
@@ -680,7 +680,7 @@ namespace Inlämmningsuppgift_1_EmilÖrjes
                             continueOreExit = Console.ReadLine();
                             if (continueOreExit == exit)
                             {
-                                Console.WriteLine(string.Join(' ', sumList));
+                                Console.WriteLine($"Sum of each calculation: {string.Join(' ', sumList)}");
                                 Console.WriteLine($" Thank you for playing. The sum of all round is {sumList.Sum(x => Convert.ToDouble(x))}. Bye, have a nice day!");
                             }
                         }
